@@ -1,0 +1,101 @@
+<tier_one_teams>
+  <team>
+    <name>NAVI</name>
+    <region>Europe</region>
+    <total_winnings>53.448</total_winnings>
+    <wins>90</wins>
+    <loses>28</loses>
+  </team>
+  <team>
+    <name>FNATIC</name>
+    <region>Europe</region>
+    <total_winnings>402.285</total_winnings>
+    <wins>73</wins>
+    <loses>28</loses>
+  </team>
+  <team>
+    <name>Team Vitality</name>
+    <region>Europe</region>
+    <total_winnings>75.723</total_winnings>
+    <year>2003</year>
+    <wins>5</wins>
+    <loses>3</loses>
+  </team>
+  <team>
+    <name>Team Liquid</name>
+    <region>Europe</region>
+    <total_winnings>381.152</total_winnings>
+    <wins>92</wins>
+    <loses>39</loses>
+  </team>
+  <team>
+    <name>FUT Esports</name>
+    <region>Europe</region>
+    <total_winnings>142.567</total_winnings>
+    <wins>89</wins>
+    <loses>46</loses>
+  </team>
+  <team>
+    <name>Team Heretics</name>
+    <region>Europe</region>
+    <total_winnings>124.413</total_winnings>
+    <wins>4</wins>
+    <loses>5</loses>
+  </team>
+  <team>
+    <name>100 Thieves</name>
+    <region>USA</region>
+    <total_winnings>299.000</total_winnings>
+    <wins>28</wins>
+    <loses>10</loses>
+  </team>
+  <team>
+    <name>Cloud9</name>
+    <region>USA</region>
+    <total_winnings>173.050</total_winnings>
+    <wins>120</wins>
+    <loses>47</loses>
+  </team>
+  <team>
+    <name>FaZe Clan</name>
+    <region>USA</region>
+    <total_winnings>133.250</total_winnings>
+    <wins>34</wins>
+    <loses>14</loses>
+  </team>
+  <team>
+    <name>The Guard</name>
+    <region>USA</region>
+    <total_winnings>115.750</total_winnings>
+    <wins>45</wins>
+    <loses>17</loses>
+  </team>
+  <team>
+    <name>Paper Rex</name>
+    <region>Asia</region>
+    <total_winnings>338.362</total_winnings>
+    <wins>101</wins>
+    <loses>27</loses>
+  </team>
+  <team>
+    <name>FunPlus Phoenix</name>
+    <region>Asia</region>
+    <total_winnings>479.992</total_winnings>
+    <wins>90</wins>
+    <loses>28</loses>
+  </team>
+  <team>
+    <name>ZETA DIVISION</name>
+    <region>Asia</region>
+    <total_winnings>259.209</total_winnings>
+    <wins>21</wins>
+    <loses>9</loses>
+  </team>
+  <team>
+    <name>DRX</name>
+    <region>Asia</region>
+    <total_winnings>467.239</total_winnings>
+    <wins>106</wins>
+    <loses>12</loses>
+  </team>
+</tier_one_teams>

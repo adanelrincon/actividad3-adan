@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<style>
+    body {
+        text-align: center;
+    }
+
+    h2 {
+        color: #4CAF50;
+    }
+
+    table,
+    th,
+    td {
+        border-bottom: 1px solid #4CAF50;
+        text-align: center;
+    }
+
+    th,
+    td {
+        padding: 5px;
+        text-align: center;
+    }
+
+    button {
+        background-color: white;
+        border: none;
+        color: #4CAF50;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    .table-wrapper {
+        display: flex;
+        justify-content: center;
+    }
+</style>
+
+<body>
+    <h2>Adán Pérez Consultas de Equipos de Valorant Tier1</h2>
+
+    <button type="button" onclick="loadDoc1()">Get all the info for all the Teams</button>
+    <button type="button" onclick="loadDoc2()">Get Teams from Europe</button>
+    <button type="button" onclick="loadDoc3()">Get Teams from USA</button>
+    <button type="button" onclick="loadDoc4()">Get Teams from Asia</button>
+    <button type="button" onclick="loadDoc5()">Teams orders with 30 or more Wins</button>
+    <button type="button" onclick="loadDoc6()">Teams orders with 20 or less Loses</button>
+    <button type="button" onclick="loadDoc7()">Teams orders by TotalWining</button>
+    <button type="button" onclick="loadDoc8()">Teams with mots averege Win rate</button>
+    <button type="button" onclick="loadDoc9()">Teams with less averege Win rate</button>
+    <button type="button" onclick="loadDoc10()">Team that has played most Games</button>
+    <div class="table-wrapper">
+        <table id="demo"></table>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
